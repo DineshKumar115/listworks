@@ -19,7 +19,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("C:\Users\HP\Desktop\reactjs\dineshreactapp\src\bg1.jpg");
+  background: url("./bg1.jpg");
   background-size:cover ;
 }
 
